@@ -1,2 +1,2 @@
-# teste_responsivo
-Página estática, utilizando apenas HTML e CSS para testar media queries.
+# Testando media queries e breakpoints do CSS
+O objetivo é exibir o tipo de aparelho que o usuário acessa, conforme dimensionamento da tela (Celular, Tablet, Desktop e TV)
